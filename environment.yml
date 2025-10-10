@@ -8,3 +8,4 @@ dependencies:
   - decorator=5.1
   - jupyter
   - ipykernel
+  
